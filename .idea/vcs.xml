@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AngularSamplesRouting/angular9-routing-sample1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularSamplesRouting/angular9-routing-sample2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AngularSamplesRouting/angular9-routing-sample3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular9-samples-http" vcs="Git" />
+  </component>
+</project>
